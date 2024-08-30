@@ -1,0 +1,9 @@
+# Title: blocked for kids
+# Last modified: 30 Aug 2024 10:35 UTC+7
+#
+# =====================================================
+
+# --- Group block ---
+#[apple]
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
